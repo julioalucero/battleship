@@ -1,0 +1,5 @@
+== README
+
+How to configure:
+
+* Copy secrets.yml.example to secrets.yml
